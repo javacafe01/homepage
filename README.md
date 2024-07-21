@@ -1,2 +1,2 @@
 # homepage
-[link](gsdev.sh)
+[link](https://gsdev.sh)

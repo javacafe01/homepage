@@ -43,6 +43,15 @@
         a {
             color: #81A1C1;
         }
+        
+        .child {
+            border: 1px solid indigo;
+            padding: 1rem;
+        }
+
+        .inline-block-child {
+            display: inline-block;
+        }
     </style>
 </head>
 
@@ -54,7 +63,8 @@
     </header>
 
     <section>
-        <table>
+        <div>
+        <table class='child inline-block-child'>
             <tbody>
                 <tr>
                     <th scope="row"><b>github</b></th>
@@ -74,6 +84,8 @@
                 </tr>    
             </tbody>
         </table>
+	<img class='inline-block-child' src="walking_chip.gif" alt="Computer man" style="height:102px;"/>
+	</div>
     </section>
 </body>
 

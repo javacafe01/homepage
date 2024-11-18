@@ -1,2 +1,2 @@
 # homepage
-[link](https://gsdev.sh)
+[link](http://javacafe.sdf.org)
